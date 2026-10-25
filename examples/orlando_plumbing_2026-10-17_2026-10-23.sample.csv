@@ -1,0 +1,9 @@
+permit_number,application_type,worktype,permit_address,issue_permit_date,estimated_cost,application_status,neighborhood
+PLM2026-13036,Plumbing,Alteration,20 N ORANGE AVE,2026-10-23,3850,Open,Central Business District
+PLM2026-13025,Plumbing,New,16659 LONE OAK CIR,2026-10-23,2500,Open,Southeastern Oaks
+PLM2026-13023,Plumbing,Alteration,5959 LAKE NONA BLVD,2026-10-23,35000,Open,Lake Nona South
+PLM2026-12891,Plumbing,New,37 W HARDING ST,2026-10-23,14000,Open,South Orange
+PLM2026-12535,Plumbing,New,13059 BARNACLE WAY,2026-10-23,2500,Open,Meridian Park
+PLM2026-13035,Plumbing,Repair,1196 ALICANTE AVE,2026-10-22,350000,Open,Engelwood Park
+PLM2026-13034,Plumbing,Repair,3910 MOCKINGBIRD LN,2026-10-22,6490,Open,Audubon Park
+PLM2026-13033,Plumbing,Irrigation,9781 MACBRIDE DR,2026-10-22,1950,Open,Lake Nona South
